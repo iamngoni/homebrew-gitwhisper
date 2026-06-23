@@ -1,9 +1,9 @@
 class Gitwhisper < Formula
   desc "AI-assisted git commit CLI"
   homepage "https://github.com/iamngoni/gitwhisper"
-  url "https://github.com/iamngoni/gitwhisper/releases/download/v0.1.18/gitwhisper-macos.tar.gz"
-  sha256 "972f3d3322150751a1b264f832a895d10b6a2db1ff1825d8b9c5bbb8eba275b2"
-  version "v0.1.18"
+  url "https://github.com/iamngoni/gitwhisper/releases/download/v1.0.0/gitwhisper-macos.tar.gz"
+  sha256 "f291394673b62673134fb5e806b7b622aba38b79a1e239e43fde440265803238"
+  version "v1.0.0"
 
   def install
     bin.install "gitwhisper"
